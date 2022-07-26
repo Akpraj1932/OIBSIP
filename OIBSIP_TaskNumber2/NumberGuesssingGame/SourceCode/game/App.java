@@ -1,7 +1,7 @@
 // Java program for the above approach
 import java.util.Scanner;
 
-public class GFG {
+public class App {
     public static void guessingNumberGame()
     {
         Scanner sc = new Scanner(System.in);
